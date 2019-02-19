@@ -24,3 +24,16 @@
 .subunit-boundary.IRL {
     stroke: #aaa;
 }
+
+.place-label {
+    font: .5rem "Verdana", sans-serif;
+}
+
+.subunit-label {
+    fill: #777;
+    fill-opacity: .5;
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+    text-anchor: middle;
+  }
